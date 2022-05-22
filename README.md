@@ -8,12 +8,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Front End Design**
-
-- 🤝 I’m looking for help with **React Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OscarUpgradeHub](https://github.com/OscarUpgradeHub)
-
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **oscar.r.canedo@gmail.com**
