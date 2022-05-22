@@ -8,7 +8,7 @@
 
 - 🚀 I’m currently learning **React**
 
-- 🔮 Ask me about **MEARN**
+- 🔮 Ask me about **MERN**
 
 - 🎯 How to reach me **oscar.r.canedo@gmail.com**
 
