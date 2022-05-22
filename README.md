@@ -6,7 +6,7 @@
 
 - 💫 I’m currently working on [Comic Store](https://github.com/OscarUpgradeHub/comicrepo?organization=OscarUpgradeHub&organization=OscarUpgradeHub)
 
-- 🚀 I’m currently learning **React**
+- 🚀 I’m currently learning **Angular**
 
 - 🔮 Ask me about **MERN**
 
