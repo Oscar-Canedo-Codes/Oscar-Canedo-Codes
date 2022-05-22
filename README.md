@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarupgradehub&label=Profile%20views&color=0e75b6&style=flat" alt="oscarupgradehub" /> </p>
 
-- 🔭 I’m currently working on [Comic Store](https://github.com/OscarUpgradeHub/comicrepo?organization=OscarUpgradeHub&organization=OscarUpgradeHub)
+- 💫 I’m currently working on [Comic Store](https://github.com/OscarUpgradeHub/comicrepo?organization=OscarUpgradeHub&organization=OscarUpgradeHub)
 
-- 🌱 I’m currently learning **React**
+- 🚀 I’m currently learning **React**
 
-- 💬 Ask me about **MEARN**
+- 🔮 Ask me about **MEARN**
 
-- 📫 How to reach me **oscar.r.canedo@gmail.com**
+- 🎯 How to reach me **oscar.r.canedo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oscarcanedo/](https://www.linkedin.com/in/oscarcanedo/)
+- 🌈 Know about my experiences [https://www.linkedin.com/in/oscarcanedo/](https://www.linkedin.com/in/oscarcanedo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
