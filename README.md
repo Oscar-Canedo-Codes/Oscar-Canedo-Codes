@@ -1,5 +1,5 @@
 <h1 align="center"> ⚡️ Oscar Cañedo ⚡️ </h1>
-<h3 align="center">Fierce Full Stack Developer 💄✨</h3>
+<h3 align="center">✨💄Fierce Full Stack Developer 💄✨</h3>
 <img align="right" alt="rainbow binary" width="400" src="https://i.pinimg.com/originals/c1/e1/ed/c1e1edda934a9050480553dc4a3bab15.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarupgradehub&label=Profile%20views&color=0e75b6&style=flat" alt="oscarupgradehub" /> </p>
