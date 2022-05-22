@@ -1,4 +1,4 @@
-<h1 align="center">Oscar Cañedo</h1>
+<h1 align="center"> ⚡️ Oscar Cañedo ⚡️ </h1>
 <h3 align="center">Fierce Full Stack Developer 💄✨</h3>
 <img align="right" alt="rainbow binary" width="400" src="https://i.pinimg.com/originals/c1/e1/ed/c1e1edda934a9050480553dc4a3bab15.jpg"> 
 
