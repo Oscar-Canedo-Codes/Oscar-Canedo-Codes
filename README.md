@@ -2,13 +2,13 @@
 <h3 align="center">Fierce Full Stack Developer</h3>
 <img align="right" alt="rainbow binary" width="400" src="https://i.pinimg.com/originals/c1/e1/ed/c1e1edda934a9050480553dc4a3bab15.jpg"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarupgradehub&label=Profile%20views&color=0e75b6&style=flat" alt="oscarupgradehub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarupgradehub&label=Profile%20views&color=0e75b6&style=flat" alt="oscar canedo codes" /> </p>
 
-- 💫 I’m currently working on [Comic Store](https://github.com/OscarUpgradeHub/comicrepo?organization=OscarUpgradeHub&organization=OscarUpgradeHub)
+- 🚀 I’m currently working on [Comic Store]([https://github.com/OscarUpgradeHub/comicrepo?organization=OscarUpgradeHub&organization=OscarUpgradeHub](https://github.com/oscar-canedo-codes/comic-shop))
 
-- 🚀 I’m currently learning **Docker**
+- 🔮 I’m currently learning **Docker**
 
-- 🔮 Ask me about **MERN**
+- 🛸 Ask me about **MERN**
 
 - 🎯 How to reach me **oscar.r.canedo@gmail.com**
 
