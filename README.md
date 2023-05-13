@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarupgradehub&label=Profile%20views&color=0e75b6&style=flat" alt="oscar canedo codes" /> </p>
 
-- 🚀 I’m currently working on [Comic Shop](https://github.com/oscar-canedo-codes/comic-shop)
+- 🚀 I’m currently working on [Weather App](h[ttps://github.com/oscar-canedo-codes/comic-shop](https://github.com/oscar-canedo-codes/weather-app))
 
-- 🔮 I’m currently learning **Docker**
+- 🔮 I’m currently learning **TypeScript**
 
 - 🛸 Ask me about **MERN**
 
-- 🎯 How to reach me **oscar.r.canedo@gmail.com**
+- 🎯 How to reach me **oscar.canedo.codes@gmail.com**
 
 - 🌈 Know about my experiences [https://www.linkedin.com/in/oscarcanedo/](https://www.linkedin.com/in/oscarcanedo/)
 
